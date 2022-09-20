@@ -1,2 +1,2 @@
-# Git Auth via Cloud Run for Lab Builders Quest
+# GCP Auth via backend hosted on Cloud Run
 
